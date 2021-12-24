@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Prammz
-- 👀 I’m interested in Devops Content
-- 🌱 I’m currently learning Kubernetes and CI/CD
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, i'm Hykaro and welcome to my profile
+- 👀 I've recently graduated as a DevOps engineer and i'm eager to learn more
+- 🌱 I’m currently learning Terraform and Ansible
 - 📫 How to reach me https://www.linkedin.com/in/hykaro-ferreira/ - https://www.facebook.com/hykaroferreira/
 
 <!---
