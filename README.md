@@ -1,6 +1,6 @@
 - 👋 Hi, i'm Hykaro and welcome to my profile
 - 👀 I've recently graduated as a DevOps engineer and i'm eager to learn more
-- 🌱 I’m currently learning Terraform and Ansible
+- 🌱 I’m currently learning Google Cloud and GoCD
 - 📫 How to reach me https://www.linkedin.com/in/hykaro-ferreira/ - https://www.facebook.com/hykaroferreira/
 
 <!---
